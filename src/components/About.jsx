@@ -15,7 +15,7 @@ function About() {
           <h2 className="mb-3">About Me</h2>
 
           <p>
-            Hello! I'm <strong>Raj</strong>, a passionate 
+            Hello! I'm <strong>Mukesh Yadav</strong>, a passionate 
             <strong> Java Full Stack Developer</strong> who loves building modern,
             responsive, and user-friendly web applications.
           </p>
